@@ -1,0 +1,14 @@
+# Third party licenses
+
+In this file are included licenses of third party dependencies required by this package. 
+For a full list of licenses used by this package, please also check dependencies of 
+this package (`requirements.*` files) and their dependencies.
+
+## Python 
+
+| Name                     | License                 |
+|--------------------------|-------------------------|
+| langchain-text-splitters | MIT License             |
+| pgvector-python          | MIT License             |
+| sentence-transformers    | Apache Software License |
+
