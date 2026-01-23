@@ -55,7 +55,7 @@ chdir(normpath(join(abspath(__file__), pardir)))
 
 setup(
     name="core_semantic_search_app",
-    version="1.0.0",
+    version="1.1.0",
     description="Semantic Search utils for the curator core project",
     long_description=long_desc,
     author="NIST IT Lab",
