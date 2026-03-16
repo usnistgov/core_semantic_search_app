@@ -1,5 +1,4 @@
-"""Model Client Utils unit testing
-"""
+"""Model Client Utils unit testing"""
 
 import json
 from unittest.case import TestCase

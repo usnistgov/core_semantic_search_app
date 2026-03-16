@@ -1,5 +1,4 @@
-""" Tests Settings
-"""
+"""Tests Settings"""
 
 import os
 from dotenv import load_dotenv  # noqa

@@ -1,5 +1,4 @@
-""" Model client
-"""
+"""Model client"""
 
 import json
 import logging
@@ -7,7 +6,6 @@ import logging
 import requests
 
 from core_semantic_search_app.commons.exceptions import SemanticSearchError
-
 
 logger = logging.getLogger(__name__)
 

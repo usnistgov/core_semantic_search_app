@@ -1,5 +1,4 @@
-""" Model Settings forms
-"""
+"""Model Settings forms"""
 
 import json
 
@@ -29,8 +28,7 @@ class ModelSettingsAdminForm(forms.ModelForm):
         super().__init__(*args, **kwargs)
         self.fields["embedding_models"].encoder = PrettyJSONEncoder
         self.fields["embedding_models"].widget.attrs.update(
-            {
-                "placeholder": """{"modelName":{
+            {"placeholder": """{"modelName":{
         "model": "modelName:version",
         "base_url": "http://localhost:8080/v1",
         "api_key": "",
@@ -39,6 +37,5 @@ class ModelSettingsAdminForm(forms.ModelForm):
         "proxies": {}
     }
 }
-            """
-            }
+            """}
         )

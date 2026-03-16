@@ -1,5 +1,4 @@
-""" Semantic Search tasks
-"""
+"""Semantic Search tasks"""
 
 import logging
 

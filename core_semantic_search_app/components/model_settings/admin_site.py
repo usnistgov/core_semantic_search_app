@@ -1,5 +1,4 @@
-""" Custom admin site for the Model Settings model
-"""
+"""Custom admin site for the Model Settings model"""
 
 from django.contrib import admin
 from django.contrib import messages

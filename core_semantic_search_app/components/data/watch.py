@@ -1,5 +1,4 @@
-""" Watchers for the data collection
-"""
+"""Watchers for the data collection"""
 
 from core_semantic_search_app.components.document.api import (
     index_documents_from_data,

@@ -1,5 +1,4 @@
-"""Model API Utils unit testing
-"""
+"""Model API Utils unit testing"""
 
 from unittest.case import TestCase
 from unittest.mock import patch, MagicMock

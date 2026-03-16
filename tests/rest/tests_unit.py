@@ -1,5 +1,4 @@
-"""Unit tests for semantic search rest api
-"""
+"""Unit tests for semantic search rest api"""
 
 from unittest.mock import patch, MagicMock
 

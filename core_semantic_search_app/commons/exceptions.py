@@ -1,5 +1,4 @@
-""" Semantic Search Exceptions
-"""
+"""Semantic Search Exceptions"""
 
 
 class SemanticSearchError(Exception):

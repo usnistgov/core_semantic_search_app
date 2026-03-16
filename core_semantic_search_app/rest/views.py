@@ -1,5 +1,4 @@
-""" REST views for the semantic search package
-"""
+"""REST views for the semantic search package"""
 
 from drf_spectacular.utils import (
     extend_schema,

@@ -1,5 +1,4 @@
-""" Url router for the semantic search application
-"""
+"""Url router for the semantic search application"""
 
 from django.contrib import admin
 from django.urls import path

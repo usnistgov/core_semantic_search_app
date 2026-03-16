@@ -1,5 +1,4 @@
-""" Unit Test Document
-"""
+"""Unit Test Document"""
 
 from unittest.case import TestCase
 from unittest.mock import patch, MagicMock

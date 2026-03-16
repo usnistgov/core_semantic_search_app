@@ -1,5 +1,4 @@
-""" Url router for the core semantic search app
-"""
+"""Url router for the core semantic search app"""
 
 from django.conf.urls import include
 from django.contrib.auth.decorators import login_required

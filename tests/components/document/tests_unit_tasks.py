@@ -1,5 +1,4 @@
-""" Unit Test Document Tasks
-"""
+"""Unit Test Document Tasks"""
 
 from unittest.case import TestCase
 from unittest.mock import patch

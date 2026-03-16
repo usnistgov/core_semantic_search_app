@@ -1,5 +1,4 @@
-"""Semantic Search app user views
-"""
+"""Semantic Search app user views"""
 
 import logging
 

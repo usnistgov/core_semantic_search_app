@@ -1,5 +1,4 @@
-""" Chunking utils
-"""
+"""Chunking utils"""
 
 import logging
 from functools import reduce

@@ -1,5 +1,4 @@
-""" Url router for the core semantic search app
-"""
+"""Url router for the core semantic search app"""
 
 from django.urls import re_path
 

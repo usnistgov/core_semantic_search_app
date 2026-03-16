@@ -1,5 +1,4 @@
-""" ModelSetting api
-"""
+"""ModelSetting api"""
 
 import os
 

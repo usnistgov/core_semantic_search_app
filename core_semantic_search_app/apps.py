@@ -1,5 +1,4 @@
-""" Apps file for core_semantic_search_app
-"""
+"""Apps file for core_semantic_search_app"""
 
 import sys
 

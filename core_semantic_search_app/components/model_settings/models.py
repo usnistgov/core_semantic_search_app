@@ -1,5 +1,4 @@
-""" Model Settings model
-"""
+"""Model Settings model"""
 
 from django.core.exceptions import ObjectDoesNotExist
 from django.core.exceptions import ValidationError

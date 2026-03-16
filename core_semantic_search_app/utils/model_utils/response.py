@@ -1,5 +1,4 @@
-""" Utils to format responses
-"""
+"""Utils to format responses"""
 
 
 def build_doc_list(documents):

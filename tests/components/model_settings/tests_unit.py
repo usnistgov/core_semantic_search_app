@@ -1,5 +1,4 @@
-""" Unit Test Model Settings
-"""
+"""Unit Test Model Settings"""
 
 from unittest.case import TestCase
 from unittest.mock import patch, MagicMock

@@ -1,5 +1,4 @@
-""" Authentication tests for Semantic Search REST API
-"""
+"""Authentication tests for Semantic Search REST API"""
 
 from unittest.mock import patch, MagicMock
 

@@ -1,5 +1,4 @@
-""" Migrations
-"""
+"""Migrations"""
 
 from django.db import migrations, models
 import pgvector.django

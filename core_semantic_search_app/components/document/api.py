@@ -1,5 +1,4 @@
-""" Document API
-"""
+"""Document API"""
 
 import logging
 import re

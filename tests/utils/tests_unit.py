@@ -1,5 +1,4 @@
-"""Utils unit testing
-"""
+"""Utils unit testing"""
 
 from unittest.case import TestCase
 from unittest.mock import MagicMock

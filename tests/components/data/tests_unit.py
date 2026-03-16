@@ -1,5 +1,4 @@
-""" Unit Test Data
-"""
+"""Unit Test Data"""
 
 from unittest.case import TestCase
 from unittest.mock import patch, MagicMock

@@ -1,5 +1,4 @@
-""" Model api utils
-"""
+"""Model api utils"""
 
 import logging
 
